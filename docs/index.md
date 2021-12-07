@@ -3,7 +3,7 @@ layout: cv
 title: Rachel Caddy's Resume
 ---
 # Rachel Caddy
-Accounting Student at BYU-Idaho.
+Accounting Student at BYU-Idaho
 
 <div id="webaddress">
 <a href="rcaddy23@gmail.com">rcaddy23@gmail.com</a>
