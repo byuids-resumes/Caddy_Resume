@@ -17,7 +17,7 @@ Accounting Student at BYU-Idaho.
 ## Education
 
 `Expected April 2023`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Brigham Young University - Idaho__
 
 - 4.0 Major GPA
 - Student Accounting Society Member
@@ -29,7 +29,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Internships
 
 `April 2021 - August 2021`
-__Forbush & Associates CPAs__, Reno, NV
+__Forbush & Associates CPAs__
 
 - Assisted staff with individual 1040 tax preparation
 - Prepared client CAS monthly reports 
@@ -49,7 +49,7 @@ __BYU-Idaho Event Services__, Usher & Cashier
 
 `April 2020 - September 2020`
 `June 2019 - September 2019`
-__Papa Murphy's__, Crew Member & Cashier
+__Papa Murphy's__
 
 - Provided both phone and in-store customer service
 - Completed hundreds of products to customer specifications
