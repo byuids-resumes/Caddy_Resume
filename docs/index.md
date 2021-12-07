@@ -38,7 +38,7 @@ __Forbush & Associates CPAs__
 ### Ticket Office Usher & Cashier
 
 `September 2019 - Current`
-__BYU-Idaho Event Services__, Usher & Cashier
+__BYU-Idaho Event Services__
 
 - Promoted to co-lead usher in fall 2020
 - Operated Paciolian system and cash register to distribute tickets  
@@ -47,9 +47,8 @@ __BYU-Idaho Event Services__, Usher & Cashier
 
 ### Valued Crew Member & Cashier
 
-`April 2020 - September 2020`
-`June 2019 - September 2019`
-__Papa Murphy's__
+`June 2019 - September 2020`
+__Papa Murphy's (Seasonal)__
 
 - Provided both phone and in-store customer service
 - Completed hundreds of products to customer specifications
