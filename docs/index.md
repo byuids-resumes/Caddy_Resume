@@ -7,7 +7,6 @@ Accounting Student at BYU-Idaho
 
 <div id="webaddress">
 <a href="rcaddy23@gmail.com">rcaddy23@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="linkedin.com/in/rachel-caddy">LinkedIn</a>
 | <a href=" https://rcaddy23.github.io/Caddy_Resume/">GitHub</a>
 </div>
